@@ -6,7 +6,7 @@ frontend developer -React and Next
 
 Hello! Welcome to My GitHub Profile I am a front-end developer passionate about creating modern and engaging user experiences. My expertise lies in designing and building beautiful, functional, and user-friendly interfaces, and this profile reflects my journey in the world of programming.
 
-* 🌍  I'm based in iran and teran city
+* 🌍  I'm based in iran and tehran city
 * 🖥️  See my portfolio at [mohammademami2005](http://github.com/mohammademami2005)
 * ✉️  You can contact me at [mohammademamiwebdeveloper@gmail.com](mailto:mohammademamiwebdeveloper@gmail.com)
 * 🧠  I'm learning React and Next in a more professional and practical way

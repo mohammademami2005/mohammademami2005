@@ -9,7 +9,6 @@ Hello! Welcome to My GitHub Profile I am a front-end developer passionate about 
 * 🌍  I'm based in iran and teran city
 * 🖥️  See my portfolio at [mohammademami2005](http://github.com/mohammademami2005)
 * ✉️  You can contact me at [mohammademamiwebdeveloper@gmail.com](mailto:mohammademamiwebdeveloper@gmail.com)
-* 🚀  I'm currently working on [darefani](http://food.darebagi.ir/)
 * 🧠  I'm learning React and Next in a more professional and practical way
 * 🤝  I'm open to collaborating on I’m always excited to team up on projects that promote creativity, innovation, and impactful results. Whether it’s front-end development, designing unique user interfaces, contributing to open-source communities, or brainstorming solutions for challenging problems, I’m open to collaboration in a wide variety of areas.
 

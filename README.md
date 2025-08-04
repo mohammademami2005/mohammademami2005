@@ -31,7 +31,6 @@
 
 ---
 ## connect whith me :
-<h3 align="left">## Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammademami2005/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammademami2005" height="30" width="40" />
@@ -59,10 +58,6 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammademami2005&theme=react-dark" />
 </p>
 
----
-
-
-
 ## 🏆 GitHub Achievements
 
 <p align="left">
@@ -75,7 +70,10 @@
 
 <a href="http://www.github.com/mohammademami2005"><img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohammademami2005's GitHub stats" /></a>
 
-<a href="http://www.github.com/mohammademami2005"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammademami2005&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mohammademami2005">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademami2005&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
 
 <a href="https://github.com/mohammademami2005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademami2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

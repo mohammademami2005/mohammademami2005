@@ -30,6 +30,41 @@ src="https://img.shields.io/github/followers/mohammademami2005?logo=github&style
 
 <p align="left"> <a href="https://www.github.com/mohammademami2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mohammademamiwebdeveloper.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mohammademami2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+## 🧠 About Me
+
+👋 Hi, I'm **Mohammad Emami** — a frontend developer from Iran 🇮🇷
+
+🔭 I’m currently learning **React.js**, **Next.js**, **TailwindCSS**, **Bootstrap**, and more.
+
+📫 How to reach me: [mohammademamiwebdeveloper@gmail.com](mailto:mohammademamiwebdeveloper@gmail.com)
+
+🌐 All of my projects are available at: [https://github.com/mohammademami2005](https://github.com/mohammademami2005)
+
+💬 Ask me about:  
+**HTML5**, **CSS3**, **JavaScript**, **React**, **Next.js**, **TailwindCSS**, **Bootstrap**...
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammademami2005&theme=onedark&no-frame=true&title=MultiLanguage,Commit,Followers,Stars,Repositories,PullRequest" />
+</p>
+
+---
+
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammademami2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohammademamiwebdeveloper.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>

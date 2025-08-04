@@ -79,29 +79,18 @@
 
 <a href="https://github.com/mohammademami2005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademami2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### 🔝 Top Repositories
 
-<div align="center">
-
-<a href="https://github.com/mohammademami2005/windows-drag-and-drop" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=windows-drag-and-drop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/bootstrap-tricks" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=bootstrap-tricks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/page-transition-trick" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=page-transition-trick&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/todo-list" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=todo-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/BankPortal" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=BankPortal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/mohammademami2005/windows-drag-and-drop">🟦 windows-drag-and-drop</a><br/><sub><code>CSS</code></sub></td>
+    <td><a href="https://github.com/mohammademami2005/bootstrap-tricks">🟪 bootstrap-tricks</a><br/><sub><code>CSS</code></sub></td>
+    <td><a href="https://github.com/mohammademami2005/page-transition-trick">🟣 page-transition-trick</a><br/><sub><code>CSS</code></sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mohammademami2005/todo-list">🟨 todo-list</a><br/><sub><code>JavaScript</code></sub></td>
+    <td><a href="https://github.com/mohammademami2005/BankPortal">🔵 BankPortal</a><br/><sub><code>CSS</code></sub></td>
+    <td></td>
+  </tr>
+</table>
 

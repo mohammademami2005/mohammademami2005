@@ -49,14 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademami2005&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammademami2005&theme=react-dark" />
-</p>
 
 ## 🏆 GitHub Achievements
 

@@ -31,15 +31,21 @@
 
 ---
 
-## 🔗 Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammademami2005/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" /></a>
-  <a href="https://www.instagram.com/mohammademamiwebdeveloper.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" /></a>
-  <a href="https://github.com/mohammademami2005" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mohammademami2005" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohammademamiwebdeveloper.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mohammademami2005" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 

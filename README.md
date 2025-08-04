@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Emami</h1>
-<h3 align="center">A Front-end Developer specializing in React and Next.js</h3>
+<h3 align="center">Creative Front-end Developer Building Modern Web Apps with React & Next.js</h3>
 
 ---
 

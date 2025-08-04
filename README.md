@@ -1,4 +1,7 @@
-![Hello World Laptop GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9lYml6aGRpdmJpcXMyYnBjOTRmeTZmOHFvYThiMGNoMWQydHRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9lYml6aGRpdmJpcXMyYnBjOTRmeTZmOHFvYThiMGNoMWQydHRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Hello World Laptop" width="400"/>
+</p>
+<br />
 My name is Mohammad Emami
 ======================================================================================================================================
 

@@ -31,6 +31,20 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammademami2005/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammademami2005" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mohammademamiwebdeveloper.dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammademamiwebdeveloper.dev" height="30" width="40" />
+  </a>
+  <a href="https://github.com/mohammademami2005" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohammademami2005" height="30" width="40" />
+  </a>
+</p>
+
+
 
 
 
@@ -55,18 +69,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohammademami2005&theme=algolia&row=1&no-bg=true&no-frame=true" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammademami2005/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammademami2005" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mohammademamiwebdeveloper.dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammademamiwebdeveloper.dev" height="30" width="40" />
-  </a>
-  <a href="https://github.com/mohammademami2005" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohammademami2005" height="30" width="40" />
-  </a>
-</p>
 
 
 <b>My GitHub Stats</b>

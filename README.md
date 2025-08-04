@@ -60,19 +60,7 @@
 
 ---
 
-## 🚀 Top Repositories
 
-<div align="left">
-
-[🔹 windows-drag-and-drop](https://github.com/mohammademami2005/windows-drag-and-drop)  
-[🔹 bootstrap-tricks](https://github.com/mohammademami2005/bootstrap-tricks)  
-[🔹 page-transition-trick](https://github.com/mohammademami2005/page-transition-trick)  
-[🔹 todo-list](https://github.com/mohammademami2005/todo-list)  
-[🔹 BankPortal](https://github.com/mohammademami2005/BankPortal)
-
-</div>
-
----
 
 ## 🏆 GitHub Achievements
 

@@ -1,100 +1,104 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9lYml6aGRpdmJpcXMyYnBjOTRmeTZmOHFvYThiMGNoMWQydHRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Hello World Laptop" width="400"/>
-</p>
+<br clear="both">
 
-<h1 align="center">Hi 👋, I'm Mohammad Emami</h1>
-<h3 align="center">Creative Front-end Developer Building Modern Web Apps with React & Next.js</h3>
-
----
-
-- 🌍 I'm based in **Tehran, Iran**
-- 🔭 I’m currently working on personal React/Next.js projects
-- 🌱 I’m learning **React**, **Next.js** more professionally
-- 💼 Portfolio: [github.com/mohammademami2005](https://github.com/mohammademami2005)
-- 📫 Reach me: [mohammademamiwebdeveloper@gmail.com](mailto:mohammademamiwebdeveloper@gmail.com)
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="30" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="30" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="30" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="30" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" height="30" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="30" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="30" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="30" alt="Sass" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="30" alt="Redux" />
-</p>
-
----
-## connect whith me :
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammademami2005/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammademami2005" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mohammademamiwebdeveloper.dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammademamiwebdeveloper.dev" height="30" width="40" />
-  </a>
-  <a href="https://github.com/mohammademami2005" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohammademami2005" height="30" width="40" />
-  </a>
-</p>
-
-
-
-
-
-## 📊 GitHub Stats
-
-
-
-## 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammademami2005&theme=algolia&row=1&no-bg=true&no-frame=true" />
-</p>
-
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mohammademami2005"><img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohammademami2005's GitHub stats" /></a>
-
-<a href="http://www.github.com/mohammademami2005">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademami2005&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-
-<a href="https://github.com/mohammademami2005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademami2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### 🔝 Top Repositories
-
-
-<div align="center" style="display: flex; justify-content: space-between;">
-
-<a href="https://github.com/mohammademami2005/windows-drag-and-drop" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=windows-drag-and-drop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/bootstrap-tricks" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=bootstrap-tricks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/page-transition-trick" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=page-transition-trick&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/todo-list" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=todo-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohammademami2005/BankPortal" align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammademami2005&repo=BankPortal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=131&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Mohammad%20Emami&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Creative%20Front-end%20Developer%20Building%20Modern%20Web%20Apps&descSize=16&descAlign=50&descAlignY=91&textBg=false&color=gradient"  />
 </div>
 
+###
 
+<img align="right" height="281" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4d3BjdGQ2N2sxaGpzOXBuNDVmeXhmMzlyOXIyYTN1dGp3dXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+
+###
+
+<h3 align="left">Hello I'm Mohammad Emami , As a Front-End Developer, my expertise lies in designing and implementing modern, clean, and high-quality user interfaces. My primary focus is on the React ecosystem and the Next.js framework, utilizing TypeScript to produce scalable and maintainable code. My goal is to transform complex ideas into functional digital products, with a special emphasis on performance optimization and exceptional User Experience (UX).</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="30" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="30" alt="eslint logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohammademami2005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammademami2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammademami2005.mohammademami2005&"  />
+</div>
+
+###

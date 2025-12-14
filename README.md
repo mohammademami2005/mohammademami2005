@@ -6,15 +6,30 @@
 
 ###
 
-<img align="right" height="281" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4d3BjdGQ2N2sxaGpzOXBuNDVmeXhmMzlyOXIyYTN1dGp3dXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<img align="right" height="281" src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2Fme2.png&w=640&q=75"  />
 
 ###
 
 <h3 align="left">Hello I'm Mohammad Emami , As a Front-End Developer, my expertise lies in designing and implementing modern, clean, and high-quality user interfaces. My primary focus is on the React ecosystem and the Next.js framework, utilizing TypeScript to produce scalable and maintainable code. My goal is to transform complex ideas into functional digital products, with a special emphasis on performance optimization and exceptional User Experience (UX).</h3>
 
 ###
-
 <br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammademami2005"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="46" alt="linkedin logo"  /></a>
+  <a href="https://t.me/mohammademamidev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="71" height="46" alt="telegram logo"  /></a>
+  <!-- <a href="https://wa.me/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="71" height="46" alt="whatsapp logo"  /></a> -->
+  <a href="mailto:mohammademamiwebdeveloper@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="46" alt="gmail logo"  /></a>
+  <a href="https://instagram.com/mohammademami.dev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="46" alt="instagram logo"  /></a>
+  <!-- <a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="46" alt="youtube logo"  /></a> -->
+</div>
+
+***
+
+
+###
+<br clear="both">
+<br >
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" alt="html5 logo"  />
@@ -52,29 +67,16 @@
 
 ###
 
-<!-- <br clear="both"> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammademami2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" /> <br />
   <img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1&cache_seconds=86400" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammademami2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=mohammademami2005&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademami2005&radius=16&theme=gruvbox&area=true&order=5" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="46" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="71" height="46" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="71" height="46" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="46" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="46" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="46" alt="youtube logo"  />
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/output/snake.svg" alt="Snake animation" />
 

@@ -7,11 +7,26 @@
 ###
 <br>
 
-<img align="right" height="500" src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2FmySkills.png&w=828&q=75"  />
+<!-- <img align="right" height="500" src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2FmySkills.png&w=828&q=75"  /> -->
 
 ###
 
-<h3  align="left">Hello I'm Mohammad Emami , As a Front-End Developer, my expertise lies in designing and implementing modern, clean, and high-quality user interfaces. My primary focus is on the React ecosystem and the Next.js framework, utilizing TypeScript to produce scalable and maintainable code. My goal is to transform complex ideas into functional digital products, with a special emphasis on performance optimization and exceptional User Experience (UX).</h3>
+<table style="border:none;">
+  <tr style="border:none;">
+    <td width="55%" valign="top">
+      <h3>Hello I'm Mohammad Emami , As a Front-End Developer, my expertise lies in designing and implementing modern, clean, and high-quality user interfaces. My primary focus is on the React     ecosystem and the Next.js framework, utilizing TypeScript to produce scalable and maintainable code. My goal is to transform complex ideas into functional digital products, with a special emphasis on performance optimization and exceptional User Experience (UX).</h3>
+
+  </td>
+    <td width="45%" align="center">
+      <img 
+        src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2FmySkills.png&w=828&q=75"
+        height="420"
+        alt="Mohammad Emami Skills"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ###
 <br clear="both">

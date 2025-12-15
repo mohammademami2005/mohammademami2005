@@ -28,8 +28,8 @@ Hello I'm Mohammad Emami, As a Front-End Developer, my expertise lies in designi
   <a href="https://instagram.com/mohammademami.dev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="46" alt="instagram logo"  /></a>
   <!-- <a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="46" alt="youtube logo"  /></a> -->
     <a href="https://www.mohammademamiproject.ir">
-    <img src="https://github.com/mohammademami2005/mohammademami2005/issues/1#issue-3728295680" width="71" height="46" alt="website logo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/main/website-click-svgrepo-com.svg" width="71" height="46" alt="website logo" />
+</a>
 
 </div>
 

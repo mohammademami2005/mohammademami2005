@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="281" src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2Fme2.png&w=640&q=75"  />
+<img align="right" height="500" src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2FmySkills.png&w=828&q=75"  />
 
 ###
 

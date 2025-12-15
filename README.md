@@ -4,16 +4,16 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=224&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Mohammad%20Emami&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Creative%20Front-end%20Developer%20Building%20Modern%20Web%20Apps&descSize=16&descAlign=50&descAlignY=91&textBg=false&color=gradient"  />
 </div>
 
-###
 <br>
 
 <!-- <img align="right" height="500" src="https://www.mohammademamiproject.ir/_next/image?url=%2Fimg%2FmySkills.png&w=828&q=75"  /> -->
 
-###
 
 <table style="border:none;">
   <tr style="border:none;">
     <td width="55%" valign="top">
+      <br>
+      <br>
       <h3>Hello I'm Mohammad Emami , As a Front-End Developer, my expertise lies in designing and implementing modern, clean, and high-quality user interfaces. My primary focus is on the React     ecosystem and the Next.js framework, utilizing TypeScript to produce scalable and maintainable code. My goal is to transform complex ideas into functional digital products, with a special emphasis on performance optimization and exceptional User Experience (UX).</h3>
 
   </td>
@@ -28,7 +28,6 @@
 </table>
 
 
-###
 <br clear="both">
 
 <div align="center">
@@ -42,8 +41,6 @@
 
 ***
 
-
-###
 <br clear="both">
 <br >
 
@@ -81,25 +78,23 @@
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="46" alt="eslint logo"  />
 </div>
 
-###
-
+***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1&cache_seconds=86400" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammademami2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammademami2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammademami2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1&cache_seconds=86400" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=mohammademami2005&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademami2005&radius=16&theme=gruvbox&area=true&order=5" alt="activity-graph graph"  />
 </div>
 
-###
 
 
 <img src="https://raw.githubusercontent.com/mohammademami2005/mohammademami2005/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img src="https://count.getloli.com/@:mohammademami2005?theme=sketch-1&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
-###
+

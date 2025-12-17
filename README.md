@@ -24,7 +24,7 @@ Hello I'm Mohammad Emami, As a Front-End Developer, my expertise lies in designi
   <a href="https://www.linkedin.com/in/mohammademami2005"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="46" alt="linkedin logo"  /></a>
   <a href="https://t.me/mohammademamidev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="71" height="46" alt="telegram logo"  /></a>
   <!-- <a href="https://wa.me/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="71" height="46" alt="whatsapp logo"  /></a> -->
-  <a href="mailto:mohammademamiwebdeveloper@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="46" alt="gmail logo"  /></a>
+  <a href="mailto:mohammademami.dev@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="46" alt="gmail logo"  /></a>
   <a href="https://instagram.com/mohammademami.dev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="46" alt="instagram logo"  /></a>
   <!-- <a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="46" alt="youtube logo"  /></a> -->
     <a href="https://www.mohammademamiproject.ir">
